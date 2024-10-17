@@ -1,23 +1,6 @@
 # Course Update Guide
 
 
-#### If you already completed this section
-
-You can explore the new lectures that were added at the beginning of this section but you don't have to.
-
-</details>
-
-<details>
-
-<summary>Debugging React Apps [UPDATED]</summary>
-
-#### What changed?
-
-Replaced the lecture videos of this section with new videos. The old content was removed right away to make room for the update since this was a very short section anyways.
-
-This section **was not moved**!
-
-#### If you're curently in this section
 
 Simply restart the section (it's a very short section, hence I took this approach).
 
