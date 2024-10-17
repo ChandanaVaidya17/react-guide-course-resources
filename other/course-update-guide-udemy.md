@@ -1,19 +1,6 @@
 # Course Update Guide
 
 
-Simply continue with the section and finish it. Thereafter, continue with the updated "Refs & Portals" section.
-
-#### If you already completed this section
-
-Since the lectures were not updated, nothing changes for you.
-
-</details>
-
-<details>
-
-<summary>Working with Refs & Portals [UPDATED]</summary>
-
-#### What changed?
 
 This section was renamed (it was previously named "Diving Deeper: Working with Fragments, Portals & Refs"). Fragments are no longer covered in the (updated) section content (since they are covered in the "React Essentials" sections now).
 
