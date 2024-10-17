@@ -1,16 +1,6 @@
 # Course Update Guide
 
 
-This section **was not moved**!
-
-#### If you're curently in this section
-
-If you have time, restart the section, otherwise simply continue with it (i.e., ignore the new lectures).
-
-After finishing this section, continue with the next section (the "Debugging" section) - that will then already be an updated section (i.e., you switch to the updated content smoothly).
-
-You should mark the lectures you're ignoring (i.e., either the new or the old lectures) as "Completed" manually to fix your course progress once you finished this section.
-
 #### If you already completed this section
 
 You can explore the new lectures that were added at the beginning of this section but you don't have to.
