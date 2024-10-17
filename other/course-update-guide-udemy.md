@@ -1,25 +1,6 @@
 # Course Update Guide
 
 
-
-Simply restart the section (it's a very short section, hence I took this approach).
-
-#### If you already completed this section
-
-You can ignore the updated videos / this updated section.
-
-</details>
-
-<details>
-
-<summary>Time to Practice: A Complete Practice Project [LEGACY, MOVED TO END OF COURSE]</summary>
-
-#### What changed?
-
-This section was not updated but it **was moved to the end of the course** since it's no longer needed in the updated course structure (as there are plenty of better demo & practice projects in the surrounding sections)
-
-#### If you're curently in this section
-
 Simply continue with the section and finish it. Thereafter, continue with the updated "Refs & Portals" section.
 
 #### If you already completed this section
